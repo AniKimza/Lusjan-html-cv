@@ -1,0 +1,26 @@
+body {
+background-color: #F0EBE3;
+}
+
+hr {
+border-style: dotted none none;
+width: 70%;
+border-color: #576F72;
+border-width: 8px;
+}
+
+h1 {
+  color: #7D9D9C;
+}
+
+h2 {
+  color: #576F72;
+}
+
+h3 {
+  color: #576F72;
+}
+
+a:hover {
+  background-color: #576F72; 
+}
